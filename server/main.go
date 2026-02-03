@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"purpura.dev.br/study/grpc/server/service"
+	"purpura.dev.br/study/http/server/service"
 )
 
 func main() {
