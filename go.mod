@@ -1,3 +1,3 @@
-module purpura.dev.br/study/grpc
+module purpura.dev.br/study/http
 
 go 1.25
